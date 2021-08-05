@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on android Java projects
-- 📫 How to reach me belikhawoline@gmail.com
+- 📫 How to reach me https://t.me/Hawoline
 
 <!---
 Hawoline/Hawoline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
