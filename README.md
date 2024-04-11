@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hawoline
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Android Java projects
+- 💞️ I’m looking to collaborate on Java projects
 
 <!---
 Hawoline/Hawoline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
