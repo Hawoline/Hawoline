@@ -24,7 +24,4 @@ Android Tools:
 - Team with name .NET: 3 Android Developers, 3 IOS Developers, Team Leader, Project Manager, UI-Tester.
 
 Next goal: 
-?
-
-
-
+#### Java Backend Developer
