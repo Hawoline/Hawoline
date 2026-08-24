@@ -1,8 +1,4 @@
 # UML DeepLearn Architect
-Why? Звучит SOLID-но.
-UML - Love.
-Backend - Stable.
-Architect - Scalable.
 ### Work Experience
 #### Java Android Developer
 Rb Soft:
